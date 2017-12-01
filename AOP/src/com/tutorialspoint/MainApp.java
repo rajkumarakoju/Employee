@@ -13,5 +13,6 @@ public class MainApp {
       student.printThrowException();
       System.out.println("first changed!");
       System.out.println("second changed!");
+      System.out.println( "------------------------");
    }
 }
