@@ -12,5 +12,6 @@ public class MainApp {
       student.getAge();
       student.printThrowException();
       System.out.println("first changed!");
+      System.out.println("second changed!");
    }
 }
